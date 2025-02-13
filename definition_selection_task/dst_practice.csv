@@ -1,0 +1,6 @@
+﻿id_p,target,id_ans_correct,ans_correct,id_ans_incompatible,ans_incompatible,id_ans_overarching_cat,ans_overarching_cat,id_ans_meaning_swapped,ans_meaning_swapped
+1t,limone,1a_c,tipo di agrume,1a_i,gioco da tavolo,1a_o_c,tipo di cibo,1a_m_s,computer portatile
+2t,mare,2a_c,acque salate che circondano i continenti e le isole,2a_i,datore di lavoro in settore alberghiero,2a_o_c,acqua,2a_m_s,tipo di foresta
+3t,birra,3a_c,tipo di bevanda alcolica,3a_i,tazza in vetro,3a_o_c,bevanda,3a_m_s,decorazione natalizia
+4t,padre,4a_c,genitore maschile,4a_i,macchina per popcorn,4a_o_c,persona,4a_m_s,cielo prima dell'alba
+5t,aritmetica,5a_c,scienza che si occupa di problemi relativi ai numeri ,5a_i,cinema al cielo aperto,5a_o_c,scienza,5a_m_s,cioccolato piccante
