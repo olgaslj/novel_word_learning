@@ -1,2 +1,2 @@
 This task measures eye-tracking during sentence reading.
-Needs the EyeLinkCoreGraphicsPsychoPy.py file from ./learning_task_eyetracking
+Needs the EyeLinkCoreGraphicsPsychoPy.py file from the [Learning task] (https://github.com/olgaslj/novel_word_learning/tree/main/learning_task_eyetracking)
