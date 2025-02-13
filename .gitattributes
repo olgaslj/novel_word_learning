@@ -1,2 +1,6 @@
-**/*.R linguist-detectable=true
-**/*.Rmd linguist-detectable=true
+# For R files (all subfolders)
+**/*.R linguist-vendored=false linguist-language=R
+**/*.Rmd linguist-vendored=false linguist-language=R
+
+# For Python files (all subfolders)
+**/*.py linguist-vendored=false linguist-language=Python
